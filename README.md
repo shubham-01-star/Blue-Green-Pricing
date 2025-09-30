@@ -24,15 +24,10 @@ Clear Cookie
 
 Sticky routing via cookies supported
 
+<img width="786" height="601" alt="image" src="https://github.com/user-attachments/assets/13c8adfe-11c1-49b8-90ed-8f270bc1c3b1" />
+
 Folder Structure
-frontend/
- ├─ src/
- │   ├─ api.js         # API helper functions for fetch & cookie management
- │   ├─ App.vue        # Main app with UI & buttons
- │   └─ components/
- │       └─ Pricing.vue
- ├─ package.json
- └─ jsconfig.json      # optional for absolute imports
+<img width="704" height="648" alt="image" src="https://github.com/user-attachments/assets/1a10cc53-f3e1-452f-bd28-2119060752e7" />
 
 Setup & Run
 
